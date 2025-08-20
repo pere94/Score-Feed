@@ -1,4 +1,4 @@
-# Doc - Marketing Scripts
+# Doc - Resumen
 
 ---
 
